@@ -1,2 +1,2 @@
-# 👋 Hi, I'm Pcoke (Zhang Qi)
+# 👋 Hi, I'm Pcoke
 
