@@ -46,4 +46,4 @@ I am passionate about using multi-source satellite data to understand and monito
 #### 📡 Specialized GIS/RS Tools
 ![GEE](https://img.shields.io/badge/Google_Earth_Engine-4285F4?style=flat-square&logo=google&logoColor=white)
 ![GDAL](https://img.shields.io/badge/GDAL-003E73?style=flat-square&logo=osgeo&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-005E95?style=flat-square&logo=esri&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-005E95?style=flat-square&logo=esri&logoColor=white)
