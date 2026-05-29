@@ -22,7 +22,15 @@ I am passionate about using multi-source satellite data to understand and monito
 * **📡 Data Fusion**: Integrating multi-source RS data to analyze long-term ecological changes.
 
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Coke&layout=compact&theme=tokyonight)
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Pcoke's GitHub stats](https://github-readme-stats.vercel.app/api?username=P-Coke&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=P-Coke&layout=compact&langs_count=8&theme=tokyonight)
+
+</div>
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
