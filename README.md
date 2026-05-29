@@ -22,13 +22,18 @@ I am passionate about using multi-source satellite data to understand and monito
 * **📡 Data Fusion**: Integrating multi-source RS data to analyze long-term ecological changes.
 
 ---
-## 🧰 Languages
+## 🛠️ Tech Stack
 
-<div align="center">
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=P-Coke&layout=compact&langs_count=8&theme=tokyonight" alt="Top Langs" />
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/MATLAB-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Remote%20Sensing-2E8B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GIS-1E90FF?style=for-the-badge" />
+</p>
 ### 🛠️ Tech Stack
 
 #### 💻 Programming Languages
