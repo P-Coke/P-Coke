@@ -10,17 +10,6 @@
 
 > 🛰️ **Ecological Remote Sensing Researcher | Full-Stack Developer | Linux Enthusiast**
 > 🎓 *Undergraduate @ Taiyuan University of Technology (TYUT)*
-
----
-
-### 🔬 Research Focus: Ecological Remote Sensing
-I am passionate about using multi-source satellite data to understand and monitor our environment. My current work focuses on:
-
-* **🔥 Fire Monitoring**: Developing real-time fire detection algorithms using **Himawari-8/9** geostationary satellite data.
-* **🌱 Soil & Water Conservation**: Quantitative estimation of soil erosion using **RUSLE** and **CSLE** models.
-* **🌍 Anthropogenic Impact**: Researching **Human Activity Intensity** and its influence on regional ecosystems.
-* **📡 Data Fusion**: Integrating multi-source RS data to analyze long-term ecological changes.
-
 ---
 
 ### 🛠️ Tech Stack
